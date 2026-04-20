@@ -8,7 +8,7 @@
 
 3. Табличные данные. Кейс 9 "Разработка рекомендательной информационной системы на основе статистических данных
 хоккейных матчей"
-   Ссылка:https://www.kaggle.com/datasets/flynn28/nhl-player-database/data
+   Ссылка:https://www.kaggle.com/datasets/alexbenzik/nhl-players-statistics
 
 4. Аудио. Кейс 67 "Транскрибация и протоколирование контрольного мероприятия инспектором"
    Ссылка: https://github.com/snakers4/open_stt.git
