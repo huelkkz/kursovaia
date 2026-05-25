@@ -1,15 +1,13 @@
 # kursovaia
-
-1. Текст. Кейс 68 "Определение тематики обращения с помощью ИИ"
-   Ссылка: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
-   
-2. Изображение. Кейс 11 "Обнаружение происшествий (Computer Vision)".
-   Ссылка: https://www.kaggle.com/datasets/simuletic/cctv-incident-dataset-fall-and-lying-down-detection
-
-3. Табличные данные. Кейс 9 "Разработка рекомендательной информационной системы на основе статистических данных
+   1. Табличные данные. Кейс 9 "Разработка рекомендательной информационной системы на основе статистических данных
 хоккейных матчей"
-   Ссылка:https://www.kaggle.com/datasets/alexbenzik/nhl-players-statistics
-   
-4. Временные ряды. Кейс 33 "Распознавание событий по текстовому и визуальному описанию в видеопотоке с
+   Ссылка: https://www.kaggle.com/datasets/flynn28/nhl-player-database
+
+   2. Временные ряды. Кейс 33 "Распознавание событий по текстовому и визуальному описанию в видеопотоке с
 использованием визуально-языковых моделей"
    Ссылка: https://huggingface.co/datasets/MERA-evaluation/RealVideoQA
+   
+3. Изображение. Кейс 11 "Обнаружение происшествий (Computer Vision)".
+   Ссылка: https://www.kaggle.com/datasets/simuletic/cctv-incident-dataset-fall-and-lying-down-detection
+   4. Текст. Кейс 68 "Определение тематики обращения с помощью ИИ"
+Ссылка: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
