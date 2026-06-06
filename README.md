@@ -1,4 +1,4 @@
-# kursovaia
+# Kuznetsova Polina ET-142 kursovaia
    1. Табличные данные. Кейс 9 "Разработка рекомендательной информационной системы на основе статистических данных
 хоккейных матчей"
    Ссылка: https://www.kaggle.com/datasets/flynn28/nhl-player-database
