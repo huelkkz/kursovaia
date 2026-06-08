@@ -1,4 +1,5 @@
 # Kuznetsova Polina ET-142 kursovaia
+Ссылка на Google Colab: https://colab.research.google.com/drive/1xqysVM0lLEZ2RF4BXnqXTF2qrtpb-Zzs?hl=ru#scrollTo=20pVxUX8vG14
    1. Табличные данные. Кейс 9 "Разработка рекомендательной информационной системы на основе статистических данных
 хоккейных матчей"
    Ссылка: https://www.kaggle.com/datasets/flynn28/nhl-player-database
